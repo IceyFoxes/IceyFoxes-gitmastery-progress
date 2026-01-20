@@ -7,5 +7,14 @@
       "Exercise is not a Git repository"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1768939612.752217,
+    "completed_at": 1768939614.473539,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
   }
 ]
